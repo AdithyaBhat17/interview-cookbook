@@ -8,7 +8,7 @@ This repository will house several code snippets and useful resources for Data S
 
 ### Sorting
 * [BubbleSort](/java/sort/BubbleSort.java)
-* [InsertionSort](/java/sort/InsertionSort.java)
+* [InsertionSort](/java/sort/InsertSort.java)
 * [SelectionSort](/java/sort/SelectionSort.java)
 * [QuickSort](/java/sort/QuickSort.java)
 * [MergeSort](/java/sort/MergeSort.java)
