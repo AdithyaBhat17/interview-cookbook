@@ -1,4 +1,4 @@
-# code-playground
+# Code Playground
 
 This repository will house several code snippets and useful resources for Data Structures, Algorithms and Object-Oriented Concepts.
 
