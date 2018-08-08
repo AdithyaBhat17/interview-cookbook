@@ -13,6 +13,11 @@ This repository will house several code snippets and useful resources for Data S
 * [QuickSort](/java/sort/QuickSort.java)
 * [MergeSort](/java/sort/MergeSort.java)
 
+>### Searching Algorithms
+* [BinarySearch](/java/search/BinarySearch.java)
+* [RotatedBinarySearch](/java/search/RotatedBinarySearch.java)
+* [TernarySearch](/java/search/TernarySearch.java)
+
 ## JavaScript(ECMAScript 2015)
 
 >### Sorting Algorithms
