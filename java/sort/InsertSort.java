@@ -1,11 +1,8 @@
 package sort;
 
-
 import java.util.Arrays;
 
 public class InsertSort {
-
-
     /*
      * Insertion sort compares the current element with the element on the left.
      * If it is found to be smaller it is swapped with the element on the left.
@@ -31,7 +28,6 @@ public class InsertSort {
 
         return arr;
     }
-
 
     public static void main(String[] args) {
         int[] arr = {55, 23, 26, 2, 25};

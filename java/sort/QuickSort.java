@@ -3,8 +3,6 @@ package sort;
 import java.util.Arrays;
 
 public class QuickSort {
-
-
     /*
      * Given an integer array, sort it in ascending order using quicksort.
      *

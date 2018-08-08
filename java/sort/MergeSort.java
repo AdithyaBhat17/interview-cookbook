@@ -3,7 +3,6 @@ package sort;
 import java.util.Arrays;
 
 public class MergeSort {
-
     /*
      * Merge sort uses divide & conquer method by splitting the array into smaller parts until there is only one element.
      * The elements are then compared and sorted and merged.

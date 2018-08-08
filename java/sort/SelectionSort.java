@@ -3,7 +3,6 @@ package sort;
 import java.util.Arrays;
 
 public class SelectionSort {
-
       /*
        * 1. Selection sort is the simplest sorting algorithm. It finds the smallest element in the array and swaps it with the first position in the array. Then the second smallest and swaps it with the second position etc.
        * 2. Worst Case Time Complexity : O(n2)
