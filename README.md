@@ -7,7 +7,7 @@ This repository will house several code snippets and useful resources for Data S
 ## Java
 
 >### Sorting Algorithms
->> * [BubbleSort](/java/sort/BubbleSort.java)
+* [BubbleSort](/java/sort/BubbleSort.java)
 * [InsertionSort](/java/sort/InsertSort.java)
 * [SelectionSort](/java/sort/SelectionSort.java)
 * [QuickSort](/java/sort/QuickSort.java)
@@ -16,8 +16,8 @@ This repository will house several code snippets and useful resources for Data S
 ## JavaScript(ECMAScript 2015)
 
 >### Sorting Algorithms
->> * [BubbleSort](/javascript/sort/BubbleSort.js)
-* [InsertionSort](/javascript/sort/InsertSort.js)
+* [BubbleSort](/javascript/sort/BubbleSort.js)
+* [InsertionSort](/javascript/sort/InsertionSort.js)
 * [SelectionSort](/javascript/sort/SelectionSort.js)
 * [QuickSort](/javascript/sort/QuickSort.js)
 * [MergeSort](/javascript/sort/MergeSort.js)
