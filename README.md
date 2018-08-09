@@ -27,6 +27,10 @@ This repository will house several code snippets and useful resources for Data S
 * [QuickSort](/javascript/sort/QuickSort.js)
 * [MergeSort](/javascript/sort/MergeSort.js)
 
+>### Searching Algorithms
+* [BinarySearch](/javascript/search/BinarySearch.js)
+* [BinarySearchTree](/javascript/search/BinarySearchTree.js)
+
 ### Contributors
 >[Adithya NR](https://adithyabhat.com)  
 [Arjun MD](https://www.linkedin.com/in/arjun-devappa-a6085114a/)  
