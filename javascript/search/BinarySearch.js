@@ -3,39 +3,34 @@
     * Time complexity - Olog(n)
     * Memory Complexity - O(logn) - as it will consume memory on the stack
 */
-const recBinarySearch = (a,key,low,high) => {
-    if(low > high)
-        return a
-    let mid = low + ((high - low)/2)
-    if(a[mid] === key){
-        return mid
-    }else if(key > a[mid]){
-        return recBinarySearch(a,key,mid+1,high)
-    }else{
-        return recBinarySearch(a,key,low,mid-1)
-    }    
-}
+let steps = 0
 
- /*
-    * Binary Search using iteration
-    * Time complexity - Olog(n)
-    * Memory Complexity - Constant, O(1)
- */
+const binarySearch = (array,key) => {
+    const mid = Math.floor(array.length / 2)
 
-const iteBinarySearch = (a,key,low,high) => {
-    while(low <= high){
-        let mid = low + ((high-low)/2)
-        if(a[mid] === key) return mid
-        if(key > a[mid]){
-            low = mid + 1
+    steps++
+
+    if(array.length === 1){
+        if(array[0] === key){
+            return true
         }else{
-            high = mid - 1
+            return false
         }
     }
-    return a
+
+    if(array[mid] > key){
+        const left = array.slice(0,mid+1)
+        return binarySearch(left,key)
+    } else if(array[mid] < key){
+        const right = array.slice(mid,array.length)
+        return binarySearch(right,key)
+    } else {
+        console.log(`No. of steps to find ${key} in the given array is ${steps}`)
+        return true
+    }
 }
 
-const a = [1,11,23,34,45,56,67,78,89,90]
-key = 89
-console.log(recBinarySearch(a, key,0, a.length-1))
-console.log(iteBinarySearch(a, key,0, a.length-1))
+const array = [1,2,3,4,5,6,7,8,9,10]
+console.log(binarySearch(array,9)) 
+//output : No of steps to find 9 in the given array is 3
+//true
