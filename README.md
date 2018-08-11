@@ -29,7 +29,77 @@ This repository will house several code snippets and useful resources for Data S
 
 >### Searching Algorithms
 * [BinarySearch](/javascript/search/BinarySearch.js)
-* [BinarySearchTree](/javascript/search/BinarySearchTree.js)
+* [BinarySearchTree](/javascript/search/BinarySearchTree.js)  
+
+>### Maps & Filters in ES6
+
+**Maps :**  
+ - A map is an object that lets us store key-value pairs where both the keys and the values can be objects, primitive values, or a combination of both of these.  
+
+ - *Description* - The `map()` method creates a new array with the results of calling a provided function on every element in the calling array.  
+```
+ const numbers = [3,6,9,12];
+ const newNumbers = numbers.map(num => num/3);
+```
+Here,we are just going over the values in ‘numbers’ array, halving them and creating a brand new array with the new values `[1,2,3,4]`.  
+
+ - *Creating a map* - The below code snippet creates an empty map student with no key-value pairs.  
+```
+ const students = new Map();
+ console.log(students);
+```
+```
+ Map{}
+```
+ We can add key-values to a map by using the `.set()` method.  
+```
+ const students = new Map();  
+ students.set('adithya@gmail.com',{  
+    'firstName': 'Adithya',  
+    'lastName':'NR',  
+    'course':'Udacity React Nanodegree'  
+ });  
+ students.set('bapspatil@gmail.com',{  
+    'firstName': 'Bapusaheb',  
+    'lastName':'Patil',  
+    'course':'Udacity Android Nanodegree'  
+ });  
+ console.log(students);  
+```
+```
+ Map{'adithya@gmail.com' => Object{...},'bapspatil@gmail.com' => Object{...}}
+```
+The `.set()` method takes two arguments - the key,which is used to reference the second argument,the value.  
+
+- *Removing* a key-value pair using the `.delete()` method.  
+```
+ students.delete('adithya@gmail.com');
+ console.log(students);
+```
+```
+ Map{'bapspatil@gmail.com' => Object{firstName:'Bapusaheb',lastName:'Patil',course:'Udacity Android Nanodegree'}}
+```
+
+- We can use the `.clear()` method to remove all key-value pairs from the Map.  
+```
+ students.clear();
+ console.log(students);
+```
+```
+ Map{}
+```
+
+**Filter :**  
+
+The `filter()` method creates a new array with all elements that pass the test implemented by the provided function.  
+```
+ const names = ['Adithya','Aditya','Arjun','Abhishek','Bapusaheb'];
+ const peopleWithShortNames = names.filter(name => name.length < 8);  
+
+ //Output - peopleWithShortNames = ['Adithya','Aditya','Arjun']
+```
+Just like map, ‘filter’ is nothing special. It’s going over values in ‘words’ array checking which values pass the test, in this case which name has length lesser than 8 characters and then returns a new array with those names.  
+
 
 ## Interview Questions
 
