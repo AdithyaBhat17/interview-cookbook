@@ -31,6 +31,9 @@ This repository will house several code snippets and useful resources for Data S
 * [BinarySearch](/javascript/search/BinarySearch.js)
 * [BinarySearchTree](/javascript/search/BinarySearchTree.js)  
 
+>### Greedy Algorithms  
+* [GreedyKnapsack](/javascript/GreedyAlgorithms/GreedyKnapsack.js)
+
 >### Maps & Filters in ES6
 
 **Maps :**  
