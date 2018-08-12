@@ -6,35 +6,43 @@ This repository will house several code snippets and useful resources for Data S
 
 ## Java
 
->### Sorting Algorithms
+>#### Sorting Algorithms
 * [BubbleSort](/java/sort/BubbleSort.java)
 * [InsertionSort](/java/sort/InsertSort.java)
 * [SelectionSort](/java/sort/SelectionSort.java)
 * [QuickSort](/java/sort/QuickSort.java)
 * [MergeSort](/java/sort/MergeSort.java)
 
->### Searching Algorithms
+>#### Searching Algorithms
 * [BinarySearch](/java/search/BinarySearch.java)
 * [RotatedBinarySearch](/java/search/RotatedBinarySearch.java)
 * [TernarySearch](/java/search/TernarySearch.java)
 
-## JavaScript(ECMAScript 2015)
+## JavaScript(ECMAScript 2015)  
 
->### Sorting Algorithms
+### Data Structures :  
+
+>#### Arrays
+* [Kadane's Algorithm](/javascript/DataStructures/Arrays/kadaneAlgorithm.js)
+* [Missing numbers in a sequence](/javascript/DataStructures/Arrays/MissingNumber.js)
+
+### Algorithms :  
+
+>#### Sorting Algorithms
 * [BubbleSort](/javascript/sort/BubbleSort.js)
 * [InsertionSort](/javascript/sort/InsertionSort.js)
 * [SelectionSort](/javascript/sort/SelectionSort.js)
 * [QuickSort](/javascript/sort/QuickSort.js)
 * [MergeSort](/javascript/sort/MergeSort.js)
 
->### Searching Algorithms
+>#### Searching Algorithms
 * [BinarySearch](/javascript/search/BinarySearch.js)
 * [BinarySearchTree](/javascript/search/BinarySearchTree.js)  
 
->### Greedy Algorithms  
+>#### Greedy Algorithms  
 * [GreedyKnapsack](/javascript/GreedyAlgorithms/GreedyKnapsack.js)
 
->### Maps & Filters in ES6
+>#### Maps & Filters in ES6
 
 **Maps :**  
  - A map is an object that lets us store key-value pairs where both the keys and the values can be objects, primitive values, or a combination of both of these.  
@@ -106,7 +114,7 @@ Just like map, ‘filter’ is nothing special. It’s going over values in ‘w
 
 ## Interview Questions
 
->### HTML5
+>#### HTML5
 **Q** : What is the purpose of the *DocType* in HTML5?  
 **A** : The *DocType* element specifies the HTML version to the browser. It usually appears in the first line of code of an HTML page. Unlike the earlier versions/standards of HTML, DocType has got a simplified format in HTML5. 
 
@@ -138,7 +146,7 @@ Just like map, ‘filter’ is nothing special. It’s going over values in ‘w
 * The `<localStorage>` object doesn’t have an expiry for the stored data whereas the `<sessionStorage>` object keeps it only for a single session.  
 * The `<localStorage>` object doesn’t have a provision to delete the data upon closing of browser window whereas the `<sessionStorage>` object clears it simultaneously with the window closing down.  
 
->### CSS3
+>#### CSS3
 
 **Q** : How does CSS3 support the Responsive Web Designing?  
 **A** : Media Queries ;-)
