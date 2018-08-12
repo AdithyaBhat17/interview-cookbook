@@ -8,7 +8,7 @@ Given weights and values of *n* items, we need to put these items in a knapsack 
 ```
 Input :
   Items as (value, weight) pairs
-  array[] = {{60, 10}, {100, 20}, {120, 30}}
+  array[] = [{60, 10}, {100, 20}, {120, 30}]
   Knapsack Capacity, W = 50;
 Output :
   Maximum possible value = 220
