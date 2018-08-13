@@ -9,7 +9,6 @@
 
  Output
  4
- 9
 */
 
 const findMissingNumbers = (array) => {
