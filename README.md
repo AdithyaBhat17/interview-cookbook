@@ -25,6 +25,8 @@ This repository will house several code snippets and useful resources for Data S
 >#### Arrays
 * [Kadane's Algorithm](/javascript/DataStructures/Arrays/kadaneAlgorithm.js)
 * [Missing numbers in a sequence](/javascript/DataStructures/Arrays/MissingNumber.js)
+* [Sub-array sum equals k](/javascript/DataStructures/Arrays/SubArraysWithGivenSum.js)
+* [largest Sub-array with contiguous 0's and 1's](/javascript/DataStructures/Arrays/LargestSubArrayWith0and1s.js)
 
 ### Algorithms :  
 
