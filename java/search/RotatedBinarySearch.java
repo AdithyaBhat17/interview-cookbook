@@ -1,9 +1,6 @@
 package search;
 
-
 public class RotatedBinarySearch {
-
-
     /*
      * Binary Search using recursion
      * Time complexity - Olog(n)

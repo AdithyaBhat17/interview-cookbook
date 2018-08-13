@@ -1,9 +1,6 @@
 package search;
 
-
 public class BinarySearch {
-
-
     /*
      * Binary Search using recursion
      * Time complexity - Olog(n)
@@ -22,8 +19,6 @@ public class BinarySearch {
 
         } else return recursiveBinarySearch(arr, n, low, middle-1);
     }
-
-
 
     /*
      * Binary Search using iteration

@@ -1,8 +1,6 @@
 package search;
 
-
 public class TernarySearch {
-
     /*
      * Ternary Search using recursion
      * Time complexity - Olog(n)
@@ -31,8 +29,6 @@ public class TernarySearch {
 
         return -1;
     }
-
-
 
     public static void main(String[] args) {
         int[] arr = {1,11,23,34,45,56,67,78,89,90};
