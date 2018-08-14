@@ -40,6 +40,15 @@ This repository will house several code snippets and useful resources for Data S
 * [Largest number formed by an array](/javascript/DataStructures/Arrays/LargestNumberFormedByAnArray.js)
 * [Sort elements of an array by its frequency of occurence](/javascript/DataStructures/Arrays/SortByFrequency.js)
 
+>#### Linked Lists
+* [Middle element of a Linked List](/javascript/DataStructures/LinkedList/MiddleElement.js)
+* [Reverse a Linked List](/javascript/DataStructures/LinkedList/ReverseLinkedList.js)
+* [Rotate a Linked List](/javascript/DataStructures/LinkedList/RotateLinkedList.js)
+* [Check if Linked List is Palindrome](/javascript/DataStructures/LinkedList/Palindrome.js)
+* [Implement queue using LinkedList](/javascript/DataStructures/LinkedList/ImplementQueue.js)
+* [Implement stack using LinkedList](/javascript/DataStructures/LinkedList/ImplementStack.js)
+* [Detect Loop in linked list](/javascript/DataStructures/LinkedList/DetectLoop.js)
+
 ### Algorithms :  
 
 >#### Sorting Algorithms
