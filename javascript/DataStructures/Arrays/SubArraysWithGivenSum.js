@@ -5,7 +5,7 @@
         K = 12
         array = [1,2,3,7,5]
     Output - 
-        1
+        2
 */
 
 const findNumberOfSubArrays = (array,k) => {

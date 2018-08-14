@@ -1,4 +1,4 @@
-# Code Playground
+# Interview Cookbook
 
 This repository will house several code snippets and useful resources for Data Structures, Algorithms and Object-Oriented Concepts.
 
@@ -17,6 +17,16 @@ This repository will house several code snippets and useful resources for Data S
 * [BinarySearch](/java/search/BinarySearch.java)
 * [RotatedBinarySearch](/java/search/RotatedBinarySearch.java)
 * [TernarySearch](/java/search/TernarySearch.java)
+  
+>### String Programs
+* [Reverse String](/java/strings/ReverseString.java)
+* [Palindrone String](/java/strings/PalindroneStrings.java)
+* [Regular Expression](/java/strings/RegularExpression.java)
+* [Remove Duplicates](/java/strings/RemoveDuplicates.java)
+* [Remove White Spaces](/java/strings/RemoveWhiteSpaces.java)
+* [String Segmentation](/java/strings/StringSegmentation.java)
+* [Next Highest Permutation Of A String](/java/strings/NextHighestPermutation.java)
+* [Anagram](/java/strings/Anagram.java)
 
 ## JavaScript(ECMAScript 2015)  
 
