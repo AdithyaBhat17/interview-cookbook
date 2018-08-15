@@ -48,6 +48,12 @@ This repository will house several code snippets and useful resources for Data S
 * [Implement queue using LinkedList](/javascript/DataStructures/LinkedList/ImplementQueue.js)
 * [Implement stack using LinkedList](/javascript/DataStructures/LinkedList/ImplementStack.js)
 * [Detect Loop in linked list](/javascript/DataStructures/LinkedList/DetectLoop.js)
+* [Merge K sorted linked lists](/javascript/DataStructures/LinkedList/MergeLinkedList.js)
+
+>#### Graphs
+* [BFS](/javascript/DataStructures/Graphs/BFS.js)
+* [DFS](/javascript/DataStructures/Graphs/DFS.js)
+* [Detect cycle in a directed Graph](/javascript/DataStructures/Graphs/DetectCycle.js)
 
 ### Algorithms :  
 
