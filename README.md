@@ -28,6 +28,14 @@ This repository will house several code snippets and useful resources for Data S
 * [Next Highest Permutation Of A String](/java/strings/NextHighestPermutation.java)
 * [Anagram](/java/strings/Anagram.java)
 
+## Python
+
+>#### Stacks
+* [Getting started with stacks](/python/stacks/GeneralImplementation.py)
+* [Implementation of infix to postfix](/python/stacks/InfixToPostfix.py)
+* [Implement stack using arrays](/python/stacks/StacksUsingArrays.py)
+* [Conversion of an infix expression to postfix](/python/stacks/infixToPostfixProblem.py)
+
 ## JavaScript(ECMAScript 2015)  
 
 ### Data Structures :  
