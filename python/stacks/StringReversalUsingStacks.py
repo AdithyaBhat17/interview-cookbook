@@ -28,8 +28,6 @@ nohtyP
 noitatnemelpmIkcatS
 '''
 
-
-
 # Python program to reverse a string using stack
  
 # Function to create an empty stack. It initializes size of stack as 0
