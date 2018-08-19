@@ -35,6 +35,7 @@ This repository will house several code snippets and useful resources for Data S
 * [Implementation of infix to postfix](/python/stacks/InfixToPostfix.py)
 * [Implement stack using arrays](/python/stacks/StacksUsingArrays.py)
 * [Conversion of an infix expression to postfix](/python/stacks/infixToPostfixProblem.py)
+* [Reverse a string using stacks](/python/stacks/StringReversalUsingStacks.py)
 
 ## JavaScript(ECMAScript 2015)  
 
@@ -255,8 +256,6 @@ Note – The z-index only applies to the positioned elements. For example, posit
 
 ### Contributors
 >[Adithya NR](https://adithyabhat.com)  
-[Arjun MD](https://www.linkedin.com/in/arjun-devappa-a6085114a/)  
-[Aditya Kothari](https://www.linkedin.com/in/aditya-kothari-919b02131/)  
-[Ankush Lakkanna](https://www.linkedin.com/in/ankush-lakkanna-275aa8149/)  
-[Abhishek Iyer](https://github.com/Abhishekiyer97)  
-[Bapusaheb Patil](https://bapspatil.com)
+[Bapusaheb Patil](https://bapspatil.com)  
+[Arjun MD](https://www.linkedin.com/in/arjun-devappa-a6085114a/) 
+
