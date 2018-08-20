@@ -23,10 +23,6 @@ Output:
 -3
 '''
 
-
-
-
-
 # Python program to evaluate value of a postfix expression
  
 # Class to convert the expression
