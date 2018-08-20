@@ -39,7 +39,28 @@ public class ReverseString {
      * thread-safe.
      * http://www.techtamasha.com/difference-between-string-and-stringbufferstringbuilder-in-java/28
      * */
-    public static String reverseWord(String s) {
+
+     public static StringJoiner reverseWord(String s){
+         String [] arr = s.split("\\s+");//
+         StringJoiner mStringJoiner  = new StringJoiner(" ");
+         int numberOfWords = arr.length;
+         for(int i = numberOfWords - 1; i >= 0; i--)
+            mStringJoiner.add(arr[i]);
+        return mStringJoiner;
+     }
+
+     /*
+     *"\\s+" will split even if there is more than one space between two words.
+     *StringJoiner works only in Java 8.
+     *Pass the delimeter to the constructor while creating the StringJoiner object.
+     *Add words using add() of StringJoiner class.
+     *Here I have returned the StringJoiner object.
+     *On printing, the toString() of Object class gets called and the reversed String gets printed.
+     Note : If there is no support of Java 8 then use the function below but it will print the extra delimeter at the end of the sentence.
+     So care has to be taken to remove it.
+     * */
+
+    /*public static String reverseWord(String s) {
         String reverse = "";
 
         String[] arr = s.split(" ");
@@ -48,7 +69,7 @@ public class ReverseString {
         }
 
         return reverse;
-    }
+    }*/
 
 
     public static void main(String[] args) {
