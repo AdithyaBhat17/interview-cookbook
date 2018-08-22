@@ -39,7 +39,7 @@ This repository will house several code snippets and useful resources for Data S
 * [Evaluate postfix expression](/python/stacks/PostfixEvaluation.py)  
 
 >#### Queues  
-* [Getting started with Queues](/python/queues/ImplentUsingLists.py)
+* [Getting started with Queues](/python/queues/ImplementationUsingLists.py)
 
 ## JavaScript(ECMAScript 2015)  
 
