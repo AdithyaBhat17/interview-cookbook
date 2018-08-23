@@ -18,7 +18,7 @@ This repository will house several code snippets and useful resources for Data S
 * [RotatedBinarySearch](/java/search/RotatedBinarySearch.java)
 * [TernarySearch](/java/search/TernarySearch.java)
   
->### String Programs
+>#### String Programs
 * [Reverse String](/java/strings/ReverseString.java)
 * [Palindrone String](/java/strings/PalindroneStrings.java)
 * [Regular Expression](/java/strings/RegularExpression.java)
@@ -31,11 +31,15 @@ This repository will house several code snippets and useful resources for Data S
 ## Python
 
 >#### Stacks
-* [Getting started with stacks](/python/stacks/GeneralImplementation.py)
+* [Getting started with Stacks](/python/stacks/GeneralImplementation.py)
 * [Implementation of infix to postfix](/python/stacks/InfixToPostfix.py)
 * [Implement stack using arrays](/python/stacks/StacksUsingArrays.py)
 * [Conversion of an infix expression to postfix](/python/stacks/infixToPostfixProblem.py)
 * [Reverse a string using stacks](/python/stacks/StringReversalUsingStacks.py)
+* [Evaluate postfix expression](/python/stacks/PostfixEvaluation.py)  
+
+>#### Queues  
+* [Getting started with Queues](/python/queues/ImplementationUsingLists.py)
 
 ## JavaScript(ECMAScript 2015)  
 
@@ -257,5 +261,6 @@ Note – The z-index only applies to the positioned elements. For example, posit
 ### Contributors
 >[Adithya NR](https://adithyabhat.com)  
 [Bapusaheb Patil](https://bapspatil.com)  
-[Arjun MD](https://www.linkedin.com/in/arjun-devappa-a6085114a/) 
+[Arjun MD](https://www.linkedin.com/in/arjun-devappa-a6085114a/)  
+[Gautam Krishnan](https://www.linkedin.com/in/gautam-krishnan-404b04131/)  
 
