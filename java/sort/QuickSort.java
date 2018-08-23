@@ -6,11 +6,23 @@ public class QuickSort {
     /*
      * Given an integer array, sort it in ascending order using quicksort.
      *
-     * Runtime Complexity - Linearithmic, O(nlogn).
+     * Runtime Complexity
+     * ->Best Case :- When middle element is chosen as pivot. O(nLogn)
+     * ->Average Case :- O(nLogn)
+     * ->Worst Case: - When the pivot element is largest or smallest in the array.
+     *                 If last element is chosen as the pivot element then when the array is sorted in ascending or descending order.
+     *                 O(n^2).
+     * 
      * Memory Complexity - Logarithmic, O(logn).
      * Note: Recursive solution has O(logn) memory complexity as it will consume memory on the stack.
      *
-     *
+     *Key Points
+     * -> Quick Sort is faster than many sorting alogrithms like Merge and Heap Sorts.
+     * -> Default implementation of Quick Sort is not stable.
+     * -> Quick Sort is in place sorting algorithm therefore doesn't require extra storage.
+     * -> AKA friendly sorting algorithm as it has a good locality of reference.
+     * 
+     * Steps
      * Step 1: Select a pivot element from the array, usually the first element
      * Step 2: Compare the pivot element with the current element. If the current element is less than the pivot,
      *         shift the current element to the left side and if it is greater than the pivot, shift it to the right
