@@ -6,6 +6,20 @@ This repository will house several code snippets and useful resources for Data S
 
 ## Java
 
+>#### Linked Lists  
+* [General Implementation](/java/LinkedLists/Implentation.java)
+* [Delete element based on position](/java/LinkedLists/DeleteElementPosition.java)
+* [Delete element based on key](/java/LinkedLists/DeleteElementKey.java)
+* [Reverse Linkedlist](/java/LinkedLists/Reverse.java)
+* [Find middle element](/java/LinkedLists/MiddleElement.java)
+* [Merge two unsorted lists](/java/LinkedLists/MergeLists.java)
+* [Remove Duplicate elements](/java/LinkedLists/RemoveDuplicates.java)
+* [Union and intersection of two linked lists](/java/LinkedLists/UnionAndIntersection.java)
+* [Detect loop in a linked list](/java/LinkedLists/DetectLoop.java)
+* [Swap two nodes without swapping data](/java/LinkedLists/SwapNodesWithoutSwappingData.java)
+
+
+
 >#### Sorting Algorithms
 * [BubbleSort](/java/sort/BubbleSort.java)
 * [InsertionSort](/java/sort/InsertSort.java)
