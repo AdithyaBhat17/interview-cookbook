@@ -6,11 +6,15 @@ public class InsertSort {
     /*
      * Insertion sort compares the current element with the element on the left.
      * If it is found to be smaller it is swapped with the element on the left.
-     * Worst Case Time Complexity : O(n2)
-     * Best Case Time Complexity : O(n)
-     * Average Time Complexity : O(n2)
+     * Worst Case Time Complexity : O(n^2) - When elements are sorted in reverse order.
+     * Best Case Time Complexity : O(n) -  When elements are already sorted.
+     * Average Time Complexity : O(n^2)
      * Space Complexity : O(1)
      * This makes it inefficient to operate on larger datasets
+     * 
+     * Key Points
+     * -> Insertion Sort is in place sorting algorithm.
+     * -> It is a stable sorting algorithm.
      * */
     public static int[] insertionSort(int[] arr) {
         if(arr.length == 1) return arr;
