@@ -18,7 +18,11 @@ This repository will house several code snippets and useful resources for Data S
 * [Detect loop in a linked list](/java/LinkedLists/DetectLoop.java)
 * [Swap two nodes without swapping data](/java/LinkedLists/SwapNodesWithoutSwappingData.java)
 
-
+>#### Circular Linked Lists
+* [Sorted insertion for circular linked list](/java/CircularLinkedLists/SortedInsert.java)
+* [Implentation of a double ended queue](/java/CircularLinkedLists/Deque.java)
+* [Convert Binary Tree to circular Doubly linked list](/java/CircularLinkedLists/BinaryTreeConversion.java)
+* [Split Circular linked list into two halves](/java/CircularLinkedLists/SplitToTwo.java)
 
 >#### Sorting Algorithms
 * [BubbleSort](/java/sort/BubbleSort.java)
