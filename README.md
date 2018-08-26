@@ -2,9 +2,10 @@
 
 This repository will house several code snippets and useful resources for Data Structures, Algorithms and Object-Oriented Concepts.
 
-    Feel free to contribute to this repository and make a pull request!
+    Feel free to contribute to this repository and make a pull request!  
+    
 ## Core OOP 
-* For core OOP concepts refer [here](https://github.com/MindorksOpenSource/android-interview-questions#core-java)
+* [For core OOP concepts refer here](https://github.com/MindorksOpenSource/android-interview-questions#core-java)
 
 ## Java
 
