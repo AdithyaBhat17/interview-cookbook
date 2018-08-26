@@ -4,7 +4,7 @@ This repository will house several code snippets and useful resources for Data S
 
     Feel free to contribute to this repository and make a pull request!
 ## Core OOP 
-* For core OOP concepts refer to Core Java section [here](https://github.com/MindorksOpenSource/android-interview-questions#core-java)
+* For core OOP concepts refer [here](https://github.com/MindorksOpenSource/android-interview-questions#core-java)
 
 ## Java
 
