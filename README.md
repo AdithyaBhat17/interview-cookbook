@@ -37,6 +37,7 @@ This repository will house several code snippets and useful resources for Data S
 * [TernarySearch](/java/search/TernarySearch.java)
   
 >#### String Programs
+* [Highest Palindrome formed by changing k-digits](/java/strings/HighestPalindrome.java)
 * [Reverse String](/java/strings/ReverseString.java)
 * [Palindrone String](/java/strings/PalindroneStrings.java)
 * [Regular Expression](/java/strings/RegularExpression.java)
