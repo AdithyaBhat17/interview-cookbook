@@ -11,6 +11,7 @@ This repository will house several code snippets and useful resources for Data S
 >#### Arrays
 * [Spiral traversal of a m x n Matrix](/java/arrays/Spiralmatrix.java)
 * [Split an array into two having equal sums](/java/arrays/splitArrayWithEqualSums.java)
+* [Find the highest value using 4 operators +,*,(,)](/java/arrays/HighestPossibleSum.java)
 
 >#### Linked Lists  
 * [General Implementation](/java/LinkedLists/Implentation.java)
