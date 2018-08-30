@@ -1,15 +1,17 @@
-'''2 players play a game. A number is given as input. If the number is a power of 2(i.e, 2^1, 2^2 .. 2^64),
-   then divide the number by 2 and pass the number to the other player. Else, if the number is not a power
-   of 2, then subtract the number with its nearest 2 power number and pass the number to the other player.
-   PlayerA always starts the game. The player who gets to value 1(one) is the winner. Output the name of
-   the winner, i.e, 'PlayerA' or 'PlayerB'
+#    Asked by - Delta X
+
+#    2 players play a game. A number is given as input. If the number is a power of 2(i.e, 2^1, 2^2 .. 2^64),
+#    then divide the number by 2 and pass the number to the other player. Else, if the number is not a power
+#    of 2, then subtract the number with its nearest 2 power number and pass the number to the other player.
+#    PlayerA always starts the game. The player who gets to value 1(one) is the winner. Output the name of
+#    the winner, i.e, 'PlayerA' or 'PlayerB'
    
-   Ex: 
-   n = 10
-   Output: PlayerB
+#    Ex: 
+#    n = 10
+#    Output: PlayerB
    
-   n = 12
-   Output = PlayerA'''
+#    n = 12
+#    Output = PlayerA
 
 import math
 
