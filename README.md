@@ -6,7 +6,11 @@ This repository will house several code snippets and useful resources for Data S
 
 ## Java
 
+* [Power of 2 - A two player game](/java/powerGame.java)
+
+>#### Arrays
 * [Spiral traversal of a m x n Matrix](/java/arrays/Spiralmatrix.java)
+* [Split an array into two having equal sums](/java/arrays/splitArrayWithEqualSums.java)
 
 >#### Linked Lists  
 * [General Implementation](/java/LinkedLists/Implentation.java)
@@ -41,6 +45,7 @@ This repository will house several code snippets and useful resources for Data S
 >#### String Programs
 * [Highest Palindrome formed by changing k-digits](/java/strings/HighestPalindrome.java)
 * [Multiply positional values of two strings and check if the modulus(47) is same for both values](/java/strings/StringMultiplication.java)
+* [Find the smallest window in a string containing all characters of another string](/java/strings/SubstringSmallestWindow.java)
 * [Reverse String](/java/strings/ReverseString.java)
 * [Palindrone String](/java/strings/PalindroneStrings.java)
 * [Regular Expression](/java/strings/RegularExpression.java)
@@ -51,6 +56,8 @@ This repository will house several code snippets and useful resources for Data S
 * [Anagram](/java/strings/Anagram.java)
 
 ## Python
+
+* [Power of 2 - A two player game](/python/power.py)
 
 >#### Stacks
 * [Getting started with Stacks](/python/stacks/GeneralImplementation.py)
