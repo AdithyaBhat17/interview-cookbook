@@ -6,7 +6,8 @@ This repository will house several code snippets and useful resources for Data S
 
 ## Java
 
-* [Power of 2 - A two player game](/java/powerGame.java)
+* [Power of 2 - A two player game](/java/MiscellaneousProblems/powerGame.java)
+* [Find number of palindromes of n-digits](/java/MiscellaneousProblems/nDigitPalindrome.java)
 
 >#### Arrays
 * [Spiral traversal of a m x n Matrix](/java/arrays/Spiralmatrix.java)
