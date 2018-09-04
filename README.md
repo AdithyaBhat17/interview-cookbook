@@ -2,7 +2,13 @@
 
 This repository will house several code snippets and useful resources for Data Structures, Algorithms and Object-Oriented Concepts.
 
-    Feel free to contribute to this repository and make a pull request!
+    Feel free to contribute to this repository and make a pull request!  
+
+
+## C 
+
+* [Nth root of a number](/c/nthroot.c)
+
 
 ## Java
 
@@ -71,6 +77,8 @@ This repository will house several code snippets and useful resources for Data S
 
 >#### Queues  
 * [Getting started with Queues](/python/queues/ImplementationUsingLists.py)
+* [Implementing queues with Linkedlists](/python/queues/LinkedListImplementation.py)
+* [FIFO page replacement algorithm](/python/queues/FIFOpageReplacement.py)
 
 ## JavaScript(ECMAScript 2015)  
 
