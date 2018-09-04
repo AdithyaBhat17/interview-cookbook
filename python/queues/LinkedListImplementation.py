@@ -3,8 +3,7 @@
  
 # A linked list (LL) node
 # to store a queue entry
-class Node:
-     
+class Node:     
     def __init__(self, data):
         self.data = data
         self.next = None
@@ -13,8 +12,7 @@ class Node:
  
 # The queue, front stores the front node
 # of LL and rear stores ths last node of LL
-class Queue:
-     
+class Queue:     
     def __init__(self):
         self.front = self.rear = None
  
@@ -23,8 +21,7 @@ class Queue:
      
     # Method to add an item to the queue
     def EnQueue(self, item):
-        temp = Node(item)
-         
+        temp = Node(item)         
         if self.rear == None:
             self.front = self.rear = temp
             return
@@ -32,13 +29,11 @@ class Queue:
         self.rear = temp
  
     # Method to remove an item from queue
-    def DeQueue(self):
-         
+    def DeQueue(self):         
         if self.isEmpty():
             return
         temp = self.front
-        self.front = temp.next
- 
+        self.front = temp.next 
         if(self.front == None):
             self.rear = None
         return str(temp.data)
@@ -52,7 +47,6 @@ if __name__== '__main__':
     q.DeQueue()
     q.EnQueue(30)
     q.EnQueue(40)
-    q.EnQueue(50)
-     
+    q.EnQueue(50)     
     print("Dequeued item is " + q.DeQueue())
     
