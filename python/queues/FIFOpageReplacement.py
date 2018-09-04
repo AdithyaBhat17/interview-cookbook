@@ -19,7 +19,7 @@ Finally 6 comes, it is also not available in memory so it replaces the oldest pa
 
 So total page faults = 6.
 '''
-
+#using inbuilt modules for queue
 from collections import deque
 
 queue = deque([])
