@@ -5,17 +5,17 @@ present in memory, page fault occurs and Operating System replaces one of the ex
 needed page. Different page replacement algorithms suggest different ways to decide which page to replace. 
 The target for all algorithms is to reduce number of page faults.
 
-First In First Out (FIFO) page replacement algorithm –
+First In First Out (FIFO) page replacement algorithm â€“
 This is the simplest page replacement algorithm. In this algorithm, operating system keeps track of all 
 pages in the memory in a queue, oldest page is in the front of the queue. When a page needs to be replaced 
 page in the front of the queue is selected for removal.
 
 Example -1. Consider page reference string 1, 3, 0, 3, 5, 6 and 3 page slots.
 
-Initially all slots are empty, so when 1, 3, 0 came they are allocated to the empty slots —> 3 Page Faults.
-when 3 comes, it is already in memory so —> 0 Page Faults.
-Then 5 comes, it is not available in memory so it replaces the oldest page slot i.e 1. —>1 Page Fault.
-Finally 6 comes, it is also not available in memory so it replaces the oldest page slot i.e 3 —>1 Page Fault.
+Initially all slots are empty, so when 1, 3, 0 came they are allocated to the empty slots â€”> 3 Page Faults.
+when 3 comes, it is already in memory so â€”> 0 Page Faults.
+Then 5 comes, it is not available in memory so it replaces the oldest page slot i.e 1. â€”>1 Page Fault.
+Finally 6 comes, it is also not available in memory so it replaces the oldest page slot i.e 3 â€”>1 Page Fault.
 
 So total page faults = 6.
 '''
@@ -24,7 +24,7 @@ from collections import deque
 
 queue = deque([])
 
-#input capacity
+#input number of page slots
 
 cap = int(input())
 
@@ -36,21 +36,22 @@ fault=0
 
 for i in range(0,n):
 
+    #input page
     k=int(input())
 
     if k not in queue:
 
-        if len(queue) < cap:
+        if len(queue) < cap:                #for initial pages nothing is removed
 
             queue.append(k)
 
             fault+=1
 
-        else:
+        else:                               
 
-            queue.popleft()
+            queue.popleft()                 #removing page that entered first
 
-            queue.append(k)
+            queue.append(k)                 #adding new page
 
             fault+=1
 
