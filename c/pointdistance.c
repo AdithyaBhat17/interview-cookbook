@@ -1,4 +1,4 @@
-// Write a program to find the shortest distance between a point and a plain in 3-D
+// Write a program to find the shortest distance between a point and a plane in 3-D
 
 // Note : Equation of a plane => ax + by + cz + d = 0
 // point => (x1,y1,z1)
