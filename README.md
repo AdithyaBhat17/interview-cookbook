@@ -8,6 +8,13 @@ This repository will house several code snippets and useful resources for Data S
 ## C 
 
 * [Nth root of a number](/c/nthroot.c)
+* [Determine whether a number is a Fibonacci number](/c/isFibonacci.c)
+* [Distance between a point and a plane in 3-D](/c/pointdistance.c)
+* [Print factors of N in pairs](/c/printfactors.c)
+* [Probability of rain on (n+1)th day](/c/RainProbability.c)
+* [Slope of a given number](/c/slope.c)
+* [Sum of all prime divisors of a number](/c/sumofprimedivisors.c)
+* [sum of series whose 'i'th term is (i^k - (i-1)^k)](/c/sumOfseries.c)
 
 
 ## Java
