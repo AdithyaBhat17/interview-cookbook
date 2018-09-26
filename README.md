@@ -21,11 +21,15 @@ This repository will house several code snippets and useful resources for Data S
 
 * [Power of 2 - A two player game](/java/MiscellaneousProblems/powerGame.java)
 * [Find number of palindromes of n-digits](/java/MiscellaneousProblems/nDigitPalindrome.java)
+* [Find maximum among x^(y^2) or y^(x^2) where x and y are given](/java/MiscellaneousProblems/maxequation.java)
 
 >#### Arrays
 * [Spiral traversal of a m x n Matrix](/java/arrays/Spiralmatrix.java)
 * [Split an array into two having equal sums](/java/arrays/splitArrayWithEqualSums.java)
-* [Find the highest value using 4 operators +,*,(,)](/java/arrays/HighestPossibleSum.java)
+* [Find the highest value using 4 operators +, *, (, )](/java/arrays/HighestPossibleSum.java)
+* [Print alternate prime numbers till N](/java/arrays/AlternatePrimes.java)
+* [Minimum number of Changes required to transform an array into an arithmetic progression](/java/arrays/arithmeticProgression.java)
+* [Seperate 0s and 1s from an array using a single array only](/java/arrays/seperate0and1s.java)
 
 >#### Linked Lists  
 * [General Implementation](/java/LinkedLists/Implentation.java)
@@ -69,6 +73,7 @@ This repository will house several code snippets and useful resources for Data S
 * [String Segmentation](/java/strings/StringSegmentation.java)
 * [Next Highest Permutation Of A String](/java/strings/NextHighestPermutation.java)
 * [Anagram](/java/strings/Anagram.java)
+* [Count the occurences of anagrams, given a word and a pattern](/java/strings/countAnagrams.java)
 
 ## Python
 
@@ -86,6 +91,7 @@ This repository will house several code snippets and useful resources for Data S
 * [Getting started with Queues](/python/queues/ImplementationUsingLists.py)
 * [Implementing queues with Linkedlists](/python/queues/LinkedListImplementation.py)
 * [FIFO page replacement algorithm](/python/queues/FIFOpageReplacement.py)
+* [Rearrange the elements by interleaving the first half of the queue with the second half of the queue.](/python/queues/InterleavingElements.py)
 
 ## JavaScript(ECMAScript 2015)  
 
