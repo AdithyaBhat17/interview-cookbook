@@ -1,6 +1,4 @@
 public class Anagram {
-
-
     /*
      * Input: "Keep", "Peek"
      * Output: false
