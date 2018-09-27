@@ -23,8 +23,16 @@ This repository will house several code snippets and useful resources for Data S
 * [Find number of palindromes of n-digits](/java/MiscellaneousProblems/nDigitPalindrome.java)
 * [Find maximum among x^(y^2) or y^(x^2) where x and y are given](/java/MiscellaneousProblems/maxequation.java)
 
+>#### Matrices
+* [Spiral traversal of a m x n Matrix](/java/Matrix/Spiralmatrix.java)
+* [Find difference between sums of two diagonals of a matrix](/java/Matrix/diffOfSumOfDiagonals.java)
+* [Interchange first and last rows of a given matrix](/java/Matrix/interchangeFirstAndLastRow.java)
+* [Check whether a given matrix is symmetric or not](/java/Matrix/isSymmetric.java)
+* [Rotate a given matrix in clockwise direction by one element each](/java/Matrix/rotateMatrix.java)
+* [Sort a given matrix](/java/Matrix/sortmatrix.java)
+* [Given 1's, 2's, 3's ....k's print them in zig zag way.](/java/Matrix/zigzag.java)
+
 >#### Arrays
-* [Spiral traversal of a m x n Matrix](/java/arrays/Spiralmatrix.java)
 * [Split an array into two having equal sums](/java/arrays/splitArrayWithEqualSums.java)
 * [Find the highest value using 4 operators +, *, (, )](/java/arrays/HighestPossibleSum.java)
 * [Print alternate prime numbers till N](/java/arrays/AlternatePrimes.java)
