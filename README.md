@@ -326,9 +326,9 @@ Note – The z-index only applies to the positioned elements. For example, posit
 
 
 ### Contributors
->[Adithya NR](https://adithyabhat.com)  
-[Bapusaheb Patil](https://bapspatil.com)  
-[Arjun MD](https://www.linkedin.com/in/arjun-devappa-a6085114a/)  
-[Gautam Krishnan](https://www.linkedin.com/in/gautam-krishnan-404b04131/)  
-[Madan Krishnan](https://madankrishnan.wixsite.com/home)
+>[Adithya NR](https://adithyabhat.com) - c, cpp, Java, ES6-Javascript  
+[Bapusaheb Patil](https://bapspatil.com) - Java    
+[Arjun MD](https://www.linkedin.com/in/arjun-devappa-a6085114a/) - Java, Python    
+[Gautam Krishnan](https://www.linkedin.com/in/gautam-krishnan-404b04131/) - Java  
+[Madan Krishnan](https://madankrishnan.wixsite.com/home) - Python    
 
