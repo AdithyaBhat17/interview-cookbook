@@ -23,6 +23,13 @@ This repository will house several code snippets and useful resources for Data S
 * [Find number of palindromes of n-digits](/java/MiscellaneousProblems/nDigitPalindrome.java)
 * [Find maximum among x^(y^2) or y^(x^2) where x and y are given](/java/MiscellaneousProblems/maxequation.java)
 
+>#### Recursion
+* [Flood fill algorithm - C++](/cpp/Recursion/FloodFillAlgo.cpp)
+* [Count all possible paths from top left to bottom right of a mXn matrix](/java/Recursion/countpaths.java)
+* [Josephus problem](/java/Recursion/josephus.java)
+* [Special Keyboard problem](/java/Recursion/specialkeyboard.java)
+* [Water Overflow](/java/Recursion/wateroverflow.java)
+
 >#### Matrices
 * [Spiral traversal of a m x n Matrix](/java/Matrix/Spiralmatrix.java)
 * [Find difference between sums of two diagonals of a matrix](/java/Matrix/diffOfSumOfDiagonals.java)
