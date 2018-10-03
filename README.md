@@ -64,6 +64,15 @@ This repository will house several code snippets and useful resources for Data S
 * [Convert Binary Tree to circular Doubly linked list](/java/CircularLinkedLists/BinaryTreeConversion.java)
 * [Split Circular linked list into two halves](/java/CircularLinkedLists/SplitToTwo.java)
 
+>#### Doubly Linked Lists
+* [General Implementation](/java/DoublyLinkedLists/intro.java)
+* [Delete a given node in DLL](/java/DoublyLinkedLists/DeleteNode.java)
+* [Merge sort](/java/DoublyLinkedLists/mergesort.java)
+* [Reverse a given DLL](/java/DoublyLinkedLists/ReverseLL.java)
+* [Create a DLL from a given ternary tree](/java/DoublyLinkedLists/createDLLfromTernaryTree.java)
+* [Sort and insert a node into a sorted DLL - cpp](/java/DoublyLinkedLists/sortandinsert.cpp)
+* [Swap kth node from the beginning with the kth node from the end](/java/DoublyLinkedLists/swapknode.java)
+
 >#### Sorting Algorithms
 * [BubbleSort](/java/sort/BubbleSort.java)
 * [InsertionSort](/java/sort/InsertSort.java)
