@@ -45,6 +45,7 @@ This repository will house several code snippets and useful resources for Data S
 * [Print alternate prime numbers till N](/java/arrays/AlternatePrimes.java)
 * [Minimum number of Changes required to transform an array into an arithmetic progression](/java/arrays/arithmeticProgression.java)
 * [Seperate 0s and 1s from an array using a single array only](/java/arrays/seperate0and1s.java)
+* [Maximum length of segments of 0's and 1's](/java/arrays/maxLengthOf0and1.java)
 
 >#### Linked Lists  
 * [General Implementation](/java/LinkedLists/Implentation.java)
