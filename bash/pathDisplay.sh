@@ -1,4 +1,4 @@
-#How to display path of executable file in Linux?
+# Write a code to display path of executable file in Linux?
 
 
 which your_executable
