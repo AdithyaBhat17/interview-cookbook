@@ -330,7 +330,13 @@ Note – The z-index only applies to the positioned elements. For example, posit
         z-index: -1;
     }
 ```
+### Bash
 
+**[Write steps to execute a script as soon as system starts](/bash/System.txt)
+**[Write a script to Auto Increment variable in bash](/bash/autoIncrement.sh)
+**[Write a line to edit line with specific pattern in shell script](/bash/changeContentInFile.sh)
+**[Write a code to display path of executable file in Linux](/bash/pathDisplay.sh)
+**[How to disable sound on Linux systems?](/bash/soundDisable.sh)
 
 
 
