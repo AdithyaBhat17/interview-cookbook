@@ -1,0 +1,12 @@
+# Write steps to execute a script as soon as system starts.
+
+Follow these steps.
+
+1. Go to /etc/init.d
+2. Add a file( say example ) and place the script you want to execute in that.
+3. chmod +x /etc/init.d/example. (permissions)
+4. Add # chkconfig: 345 99 10 inside your script
+5. Save it  
+6. Start the service with — service example start.
+
+This should work as system service/ startup service 
