@@ -338,6 +338,9 @@ Note – The z-index only applies to the positioned elements. For example, posit
 * [Write a code to display path of executable file in Linux](/bash/pathDisplay.sh)
 * [How to disable sound on Linux systems?](/bash/soundDisable.sh)
 
+### How to contribute
+
+Read the [Contributing Guidelines](https://github.com/wagnernegrao/interview-cookbook/blob/master/CONTRIBUTING.md) and make your contribution. Follow the instructions!
 
 
 
