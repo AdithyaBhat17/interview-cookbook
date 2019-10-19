@@ -334,7 +334,7 @@ Note – The z-index only applies to the positioned elements. For example, posit
 
 ### How to contribute
 
-Read the [Contributing](https://github.com/wagnernegrao/interview-cookbook/blob/master/CONTRIBUTING.md) and make your contribution. Follow the instructions!
+Read the [Contributing Guidelines](https://github.com/wagnernegrao/interview-cookbook/blob/master/CONTRIBUTING.md) and make your contribution. Follow the instructions!
 
 
 
