@@ -57,8 +57,7 @@ class Conversion:
         if not self.isEmpty():
             self.top -= 1
             return self.array.pop()
-        else:
-            return "$"
+        return "$"
      
     # Push the element to the stack
     def push(self, op):
