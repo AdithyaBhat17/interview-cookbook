@@ -17,12 +17,12 @@ class Queue:
         self.front = self.rear = None
  
     def isEmpty(self):
-        return self.front == None
+        return self.front is None
      
     # Method to add an item to the queue
     def EnQueue(self, item):
         temp = Node(item)         
-        if self.rear == None:
+        if self.rear is None:
             self.front = self.rear = temp
             return
         self.rear.next = temp
@@ -34,7 +34,7 @@ class Queue:
             return
         temp = self.front
         self.front = temp.next 
-        if(self.front == None):
+        if(self.front is None):
             self.rear = None
         return str(temp.data)
  
