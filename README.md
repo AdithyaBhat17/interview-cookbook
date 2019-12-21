@@ -345,9 +345,5 @@ Read the [Contributing Guidelines](https://github.com/wagnernegrao/interview-coo
 
 
 ### Contributors
->[Adithya NR](https://adithyabhat.com) - c, cpp, Java, ES6-Javascript  
-[Bapusaheb Patil](https://bapspatil.com) - Java    
-[Arjun MD](https://www.linkedin.com/in/arjun-devappa-a6085114a/) - Java, Python    
-[Gautam Krishnan](https://www.linkedin.com/in/gautam-krishnan-404b04131/) - Java  
-[Madan Krishnan](https://madankrishnan.wixsite.com/home) - Python    
+[![](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/images/0)](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/links/0)[![](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/images/1)](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/links/1)[![](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/images/2)](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/links/2)[![](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/images/3)](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/links/3)[![](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/images/4)](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/links/4)[![](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/images/5)](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/links/5)[![](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/images/6)](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/links/6)[![](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/images/7)](https://sourcerer.io/fame/AdithyaBhat17/AdithyaBhat17/interview-cookbook/links/7) 
 
