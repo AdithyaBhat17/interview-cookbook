@@ -53,4 +53,4 @@ const createGraph = function (adjacencyList) {
   return graph;
 };
 
-export default { createGraph };
+module.exports = { createGraph };
