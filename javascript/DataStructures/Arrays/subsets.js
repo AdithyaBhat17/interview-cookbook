@@ -22,7 +22,7 @@ Output:
 */
 
 ((numbers) => {
-  return nums.reduce(
+  return numbers.reduce(
     (subsets, current) => {
       return subsets.concat(subsets.map((subset) => [...subset, current]));
     },
