@@ -155,7 +155,9 @@ This repository will house several code snippets and useful resources for Data S
 
 > #### Graphs
 
-- [General Implementation](/javascript/DataStructures/Graphs/init.js)
+- [General Implementation](/javascript/DataStructures/Graphs/index.js)
+- [BFS traversal](/javascript/DataStructures/Graphs/BFS.js)
+- [DFS traversal](/javascript/DataStructures/Graphs/DFS.js)
 
 ### Algorithms :
 
