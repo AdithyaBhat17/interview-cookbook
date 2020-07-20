@@ -1,39 +1,40 @@
-/*
+const { createGraph } = require("./index");
 
-Asked by - SAP Labs, Amazon, Microsoft, Flipkart, Adobe.
+const { maxVertices, adjacencyList } = createGraph([
+  [1, 0],
+  [2, 0],
+  [3, 1],
+  [3, 2],
+]);
 
-Write a function to print the breadth first traversal for a undirected graph from a given source s.
-*/
+console.log(bfs(1));
 
-class Queue{//...  https://www.geeksforgeeks.org/implementation-queue-javascript/ }
+function bfs(vertex) {
+  // initialize the visited array with false.
+  let visited = new Array(maxVertices).fill(false);
 
-class Graph{
-    // ...  Implementation in
-    // https://github.com/AdithyaBhat17/interview-cookbook/blob/master/javascript/DataStructures/Graphs/DFS.js
+  // create a Queue to traverse through the graph
+  let queue = [];
 
-    // bfs function goes here
-}
+  // mark the vertex as visited.
+  queue.push(vertex);
+  visited[vertex] = true;
 
-const bfs = (start) => {
-    let visited = []
-    for(let i=0;i<this.noOfVertices;i++)
-        visited[i] = false
-        
-    let queue = new Queue()  //Implementation guide - https://www.geeksforgeeks.org/implementation-queue-javascript/
-    visited[start] = true
-    queue.enqueue(start) // add the starting node to the queue
+  while (queue.length) {
+    // remove the vertex from the queue and print it.
+    vertex = queue.pop();
+    console.log(vertex);
 
-    while(!queue.isEmpty){
-        let element = queue.dequeue()
-        console.log(element)
+    // fetch all neighbours of the current vertex
+    const neighbours = adjacencyList.get(vertex);
 
-        let list = this.adjList.get(element)
-        for(let i in list){
-            let neighbour = list[i]
-            if(!visited[i]){
-                visited[neighbour] = true
-                queue.enqueue(neighbour)
-            }
-        }
+    // loop through the list of neighbours and add the vertex to the queue if
+    // its not visited yet.
+    for (const neighbour of neighbours) {
+      if (!visited[neighbour]) {
+        visited[neighbour] = true;
+        queue.push(neighbour);
+      }
     }
+  }
 }
