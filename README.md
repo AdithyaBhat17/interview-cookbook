@@ -178,6 +178,10 @@ This repository will house several code snippets and useful resources for Data S
 
 - [GreedyKnapsack](/javascript/GreedyAlgorithms/GreedyKnapsack.js)
 
+> #### String Algorithms
+
+- [Pangram](/javascript/strings/Pangram.js)
+
 ### Miscellaneous problems
 
 - [Hamming Distance between two numbers](/javascript/numbers/hammingDistance.js)
