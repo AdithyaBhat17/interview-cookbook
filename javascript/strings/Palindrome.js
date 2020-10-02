@@ -17,5 +17,6 @@ function isPalindrome(word, caseSensitive = false) {
 }
 
 console.log(isPalindrome('madam')); // True
+console.log(isPalindrome('Madam')); // True
 console.log(isPalindrome('anything')); // False
 console.log(isPalindrome('Madam', true)); // False
