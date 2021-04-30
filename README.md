@@ -141,6 +141,10 @@ This repository will house several code snippets and useful resources for Data S
 - [Sort elements of an array by its frequency of occurence](/javascript/DataStructures/Arrays/SortByFrequency.js)
 - [Given a non-empty array of digits representing a non-negative integer, increment one to the integer.](/javascript/DataStructures/Arrays/plusOne.js)
 - [Find all subsets of a given array](/javascript/DataStructures/Arrays/subsets.js)
+- [Check if a given sudoku board is valid](/javascript/DataStructures/Arrays/is-valid-sudoku.js)
+- [Rotate an array k times to the right](/javascript/DataStructures/Arrays/rotate-array.js)
+- [Buy and sell stock](/javascript/DataStructures/Arrays/buy-and-sell-stock.js)
+- [Rotate a 2-D image clockwise](/javascript/DataStructures/Arrays/rotate-image.js)
 
 > #### Linked Lists
 
